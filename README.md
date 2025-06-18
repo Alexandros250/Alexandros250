@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paduraru Alexandros
 ===========================================================================================================================================
 
-Junior Full-Stack Developer
+Junior Software Developer
 ---------------------------
 
 💻I'm a Junior Full-Stack Developer, enthusiastic about expanding my skills and contributing to various projects. Skills: ✅ Front-end: - JavaScript - React - TypeScript - HTML - CSS - Git/GitHub ✅Back-end: - Node.js - REST - Express.js - SQL/PostgreSQL - Postman
